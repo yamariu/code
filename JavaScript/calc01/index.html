@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./base.css">
+    <title>A mundane calculator</title>
+  </head>
+  <body>
+    <h1>A mundane calculator by JavaScript</h1>
+    <h2>Input numbers inside each input-boxes if you loose your own caluclator...</h2>
+
+    <div class="container">
+      <div class="column">
+      <h3>num_1</h3>
+      <input type="number" id="numOne" placeholder="Enter your prefer num" />
+      </div>
+      <div class="column">
+      <h3>num_2</h3>
+      <input type="number" id="numTwo" placeholder="Enter your prefer num" />
+      </div>
+    </div>
+
+    <div>
+      <button onclick="showSum()">+</button>
+      <button onclick="showSub()">-</button>
+      <button onclick="showMul()">*</button>
+      <button onclick="showDiv()">/</button>
+    </div>
+    <p>⬆️function showNums()</p>
+    <hr />
+    <p id="result">result</p>
+  </body>
+  <script src="./calc.js"></script>
+
+</html>
