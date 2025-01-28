@@ -70,9 +70,18 @@
 General Workplace Use: If you're using Perplexity's free version at work for tasks like research or learning (e.g., understanding Excel functions), it might be acceptable as long as it doesn't involve sharing sensitive company information or directly contributing to commercial activities. However, this depends on your organization's policies and whether they permit the use of external AI tools.[:source](https://www.perplexity.ai/search/specification-of-pro-search-in-7Ju_.3r7QMKhQ6M96JQ6ow#7)
 ## [Wolfram|Alpha](https://www.wolframalpha.com/)
 ### [Focusing command of perplexity ai like "/site:"](https://www.perplexity.ai/search/relationship-both-reddit-and-p-laPemSo2Qg2jz_ksUZ46ng#5)
-## Prompt engineering
+## [Prompt engineering](https://www.promptingguide.ai/)
 ### What is an ideal prompt for perplexity?
+Instruction: Clearly state what you want Perplexity to do2.
+Context: Provide background information to help Perplexity understand the task.
+Input: Include any specific data or text needed for the query.
+Keywords: Use relevant terms to focus the response2.
+Output Format: Specify how you want the response to be presented28.
+Constraints: Include any specific details, requirements, or restrictions that may impact the AI's response.[source](https://www.perplexity.ai/search/ideal-prompt-for-perplexity-wlThTuY9TiW1KbYPjBKhNQ#1)
 ## Claude with perplexity
-## NotebookLM with perplexity
-## Mapify with perplexity
-### Procreate refuses Generative AI for future
+for generating draft.
+## [NotebookLM](https://notebooklm.google.com/) with perplexity
+for fact check?
+## [Mapify](https://mapify.so/app/new) with perplexity
+for making structure and restructure?
+### [Procreate refuses Generative AI for future](https://procreate.com/ai)
